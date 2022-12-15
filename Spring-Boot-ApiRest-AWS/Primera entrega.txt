@@ -1,0 +1,8 @@
+Repositorio
+https://github.com/CarlosAv1999/Spring-Boot-ApiRest-AWS.git
+
+Ip Servidor AWS
+18.212.226.221
+
+Direccion servidor
+http://18.212.226.221:8080
